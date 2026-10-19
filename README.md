@@ -7,7 +7,7 @@ FlavorHub is a fully responsive, feature-rich modern web frontend for a restaura
 ## 🌐 Live Demo & Repository
 
 *   **Live Website:https://saliyaymd05-pixel.github.io/Flover-Hub/
-*   **GitHub Repository:** `https://github.com/your-username/your-repository-name.git`
+*   **GitHub Repository:** `https://https://github.com/saliyaymd05-pixel/Flover-Hub.git`
 
 ---
 
