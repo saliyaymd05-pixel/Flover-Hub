@@ -4,6 +4,13 @@ FlavorHub is a fully responsive, feature-rich modern web frontend for a restaura
 
 ---
 
+## 🌐 Live Demo & Repository
+
+*   **Live Website:https://saliyaymd05-pixel.github.io/Flover-Hub/
+*   **GitHub Repository:** `https://github.com/your-username/your-repository-name.git`
+
+---
+
 ## ✨ Key Features & Functionality
 
 *   **1. Comprehensive Menu Marketplace:**
@@ -51,4 +58,4 @@ Since FlavorHub is built as a pure frontend single-file application, no complex 
 
 1. **Clone or Download** the repository to your local machine:
    ```bash
-   git clone  https://saliyaymd05-pixel.github.io/Flover-Hub
+   git clone [https://github.com/your-username/your-repository-name.git](https://github.com/your-username/your-repository-name.git)
